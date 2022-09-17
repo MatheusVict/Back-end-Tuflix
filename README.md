@@ -3,6 +3,8 @@
 
 <h1 align="center">API que armazena os filmes</h1>
 
+- API do [TuFlix](https://github.com/MatheusVict/TuFlix)
+
 ## Documentação
 
 - Utilize o comando:
