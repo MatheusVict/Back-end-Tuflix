@@ -3,7 +3,11 @@
 
 <h1 align="center">API que armazena os filmes</h1>
 
-- API do [TuFlix](https://github.com/MatheusVict/TuFlix)
+**API do [TuFlix](https://github.com/MatheusVict/TuFlix)**
+
+- [x] Utilizar cors livre para todas as urls
+- [x] Guarda os dados em Array utilizando interfaces
+- [x] Tipagem das libs instaladas
 
 ## Documentação
 
