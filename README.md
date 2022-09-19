@@ -23,7 +23,7 @@ npm run dev
 ```
 - Após finalizado no typescript use:
 ```
-tsc --w
+tsc -w
 ```
 Isso irá compilar para javaScript
 
